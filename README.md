@@ -1,5 +1,7 @@
 # GitHub to Forgejo Bulk Migration Script
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H11MFEZL)
+
 A Bash script to bulk migrate all repositories from GitHub to Forgejo/Gitea using their respective APIs. Supports both one-time cloning and mirroring (continuous sync) modes, with full metadata migration including issues, pull requests, labels, milestones, releases, and wikis.
 
 ## Features
